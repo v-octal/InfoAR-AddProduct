@@ -55,7 +55,7 @@ to get you started with firebase based REST API.
    your-firebase-project > Settings > Permissions > Service Account > Generate new private key
 1. Download and save the generated file into firebase-backend/funtions/.
 1. In *firebase-backend/functions/index.js* change projectid and keyfilename to your project id and your keyfilename.
-**Note**: Since [InforAR](https://github.com/geekyJock8/InfoAR) is connected to the API I created, your changes in your backend logic will
+**Note**: Since [InfoAR](https://github.com/geekyJock8/InfoAR) is connected to the API I created, your changes in your backend logic will
           not affect the main app and will only affect your firebase database.
 1. cd into firebase-backend
 1. In terminal "npm install -g firebase-tools"
