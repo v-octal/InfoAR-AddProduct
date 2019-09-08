@@ -2,7 +2,7 @@
 This is the Add Product Interface of [InforAR](https://github.com/geekyJock8/InfoAR).
 Use this to upload details of your product. 
 <br>
-Upload your product [here](http://geekyjock.me/InfoAR-AddProduct/
+Upload your product [here](http://geekyjock.me/InfoAR-AddProduct/)
 
 # How to Add Product
 The following form contains 3 fields as of now.
@@ -16,9 +16,7 @@ The following form contains 3 fields as of now.
     1. Avoid images with sparse features
     1. Avoid images with repetitive features.
     <br>
-    **Note**: *Right now there's no check being made in front end or back end to check if the file being uploaded is correct or not. So, if
-               you upload a wrong file, it will get uploaded but you will not get the desired result.* The next step in this project is to
-               add this check and also inform the user whether the quality of image is good or not.
+    <b>Note</b>: <i>Right now there's no check being made in front end or back end to check if the file being uploaded is correct or not. So, if you upload a wrong file, it will get uploaded but you will not get the desired result.</i> The next step in this project is to add this check and also inform the user whether the quality of image is good or not.
 1. **Product Detail**: This is where you add the relevent information of the product which you want to display. You add the different details
                        separated by comma.<br>
                        **Example**: Let's say that your product is Snickers and you want to show it's ingredients. The ingredients of Snicker
