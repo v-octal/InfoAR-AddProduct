@@ -1,6 +1,8 @@
 # InfoAR-AddProduct
 This is the Add Product Interface of [InforAR](https://github.com/geekyJock8/InfoAR).
-Use this to upload details of your product.
+Use this to upload details of your product. 
+<br>
+Upload your product [here](http://geekyjock.me/InfoAR-AddProduct/
 
 # How to Add Product
 The following form contains 3 fields as of now.
@@ -22,7 +24,7 @@ The following form contains 3 fields as of now.
                        **Example**: Let's say that your product is Snickers and you want to show it's ingredients. The ingredients of Snicker
                        are chocolate, sugar, butter, milk, peanuts, corn, palm oil, salt, egg. So, you'll add all your products in this field
                        separted by commas: <br>
-                       ***chocolate, sugar, butter, milk, peanuts, corn, palm oil, salt, egg***
+                       ***chocolate, sugar, butter, milk, peanuts, corn, palm oil, salt, egg***<br>
                        **Note**: Right now it fetches the best results for each item from [Poly](https://poly.google.com/) and adds a rotation
                        animation to it. <br>
                        *You can upload your custom models to Poly with unique names and use those names in product detail field
